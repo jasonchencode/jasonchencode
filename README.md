@@ -8,9 +8,9 @@
 
 🎨 **Events Executive @ Queen's UX**, organizing workshops and events, handling planning and presentations, and coordinating external speakers to build a creative, community-driven UX space
 
-💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)
-📊 Enjoy working on ML workflows, backend systems, and data-heavy projects
-📚 Interests: Applied Machine Learning, Data Pipelines, Web Development, and Predictive Analytics
+💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
+📊 Enjoy working on ML workflows, backend systems, and data-heavy projects  
+📚 Interests: Applied Machine Learning, Data Pipelines, Web Development, and Predictive Analytics  
 
 ---
 
@@ -54,7 +54,7 @@ When I’m not coding, you’ll probably find me:
 ---
 
 ## 🌐 Connect with Me  
-Email: jason.chen@queensu.ca  
+jason.chen@queensu.ca  
 [LinkedIn](https://www.linkedin.com/in/jason-chen-dev/)  
 
 
