@@ -1,18 +1,16 @@
 # Hi, I'm Jason 👋
 
-🎓 Studying Computer Science at Queen’s University with a focus on Software Design  
+🎓 Computer Science at Queen’s University, specializing in Software Design  
 
-🧠 Machine Learning Developer @ QMIND, building a retrieval-augmented system that delivers reliable post-operative care guidance. Working with custom scrapers, a Pinecone vector store, and a growing set of medical sources  
+🧠 **Machine Learning Developer @ QMIND**, building a retrieval-augmented system that delivers reliable post-operative care guidance. Working with custom scrapers, a Pinecone vector store, and a growing set of medical sources  
 
-💼 Partnerships Officer @ QHacks, helping run a 500+ student hackathon by managing sponsor outreach and collaborating with company partners  
+💼 **Partnerships Officer @ QHacks**, helping run a 500+ student hackathon by managing sponsor outreach and collaborating with company partners  
 
-🎨 Events Executive @ Queen's UX, 
+🎨 **Events Executive @ Queen's UX**, organizing workshops and events, handling planning and presentations, and coordinating external speakers to build a creative, community-driven UX space
 
----
-
-## 📊 About Me  
-I like working on ML workflows, backend systems, and data-heavy projects.  
-My interests include applied machine learning, data pipelines, web development, and predictive analytics.
+💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)
+📊 Enjoy working on ML workflows, backend systems, and data-heavy projects
+📚 Interests: Applied Machine Learning, Data Pipelines, Web Development, and Predictive Analytics
 
 ---
 
@@ -34,19 +32,19 @@ My interests include applied machine learning, data pipelines, web development, 
 ---
 
 ## 🏆 Highlights  
-🥇 Best Overall – National Bank of Canada Challenge (QHacks 2025)  
-🥉 3rd Place – Queen’s UX Designathon 2025 
-📜 Dean’s Honour List at Queen’s  
+• 🥇 Best Overall – National Bank of Canada Challenge (QHacks 2025) → [Devpost](https://devpost.com/software/the-evolution-of-trade)
+• 🥉 3rd Place – Queen’s UX Designathon 2025 → [Devpost](https://devpost.com/software/unwrap-3iq7c4)
+• 📜 Dean’s Honour List at Queen’s  
 
 ---
 
 ## 🏄 Outside of Tech  
 When I’m not coding, you’ll probably find me:  
-🏋️ Lifting  
-🎹 Playing piano (Level 10 RCM)  
-🎣 Fishing  
-💈 Cutting hair for fun  
-🎤 Singing way too confidently at karaoke  
+• 🏋️ Lifting  
+• 🎹 Playing piano (Level 10 RCM)  
+• 🎣 Fishing  
+• 💈 Cutting hair for fun  
+• 🎤 Singing way too confidently at karaoke  
 
 ---
 
@@ -58,8 +56,8 @@ When I’m not coding, you’ll probably find me:
 ---
 
 ## 🌐 Connect with Me  
-LinkedIn: *your updated link*  
 Email: jason.chen@queensu.ca
+[LinkedIn](https://www.linkedin.com/in/jason-chen-dev/)
 
 
 
