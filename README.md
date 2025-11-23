@@ -1,8 +1,11 @@
 # Hi, I'm Jason 👋
 
 🎓 Studying Computer Science at Queen’s University with a focus on Software Design  
+
 🧠 Machine Learning Developer @ QMIND, building a retrieval-augmented system that delivers reliable post-operative care guidance. Working with custom scrapers, a Pinecone vector store, and a growing set of medical sources  
+
 💼 Partnerships Officer @ QHacks, helping run a 500+ student hackathon by managing sponsor outreach and collaborating with company partners  
+
 🎨 Events Executive @ Queen's UX, 
 
 ---
@@ -15,7 +18,9 @@ My interests include applied machine learning, data pipelines, web development, 
 
 ## 🔨 Tech Stack  
 **Languages:** Python, JavaScript, Java, C, HTML/CSS, Bash, SQL
+
 **Frameworks & Tools:** Next.js, PostgreSQL, Pinecone, Pandas, NumPy, Beautiful Soup, Streamlit, Git/GitHub, Figma  
+
 **Focus Areas:** Machine Learning, RAG systems, Data Engineering, Full-Stack Development  
 
 ---
