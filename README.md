@@ -15,11 +15,9 @@
 ---
 
 ## 🔨 Tech Stack  
-**Languages:** Python, JavaScript, Java, C, HTML/CSS, Bash, SQL
-
-**Frameworks & Tools:** Next.js, PostgreSQL, Pinecone, Pandas, NumPy, Beautiful Soup, Streamlit, Git/GitHub, Figma  
-
-**Focus Areas:** Machine Learning, RAG systems, Data Engineering, Full-Stack Development  
+• **Languages:** Python, JavaScript, Java, C, HTML/CSS, Bash, SQL  
+• **Frameworks & Tools:** Next.js, PostgreSQL, Pinecone, Pandas, NumPy, Beautiful Soup, Streamlit, Git/GitHub, Figma  
+• **Focus Areas:** Machine Learning, RAG systems, Data Engineering, Full-Stack Development  
 
 ---
 
@@ -32,8 +30,8 @@
 ---
 
 ## 🏆 Highlights  
-• 🥇 Best Overall – National Bank of Canada Challenge (QHacks 2025) → [Devpost](https://devpost.com/software/the-evolution-of-trade)
-• 🥉 3rd Place – Queen’s UX Designathon 2025 → [Devpost](https://devpost.com/software/unwrap-3iq7c4)
+• 🥇 Best Overall – National Bank of Canada Challenge (QHacks 2025) → [Devpost](https://devpost.com/software/the-evolution-of-trade)  
+• 🥉 3rd Place – Queen’s UX Designathon 2025 → [Devpost](https://devpost.com/software/unwrap-3iq7c4)  
 • 📜 Dean’s Honour List at Queen’s  
 
 ---
@@ -56,8 +54,8 @@ When I’m not coding, you’ll probably find me:
 ---
 
 ## 🌐 Connect with Me  
-Email: jason.chen@queensu.ca
-[LinkedIn](https://www.linkedin.com/in/jason-chen-dev/)
+Email: jason.chen@queensu.ca  
+[LinkedIn](https://www.linkedin.com/in/jason-chen-dev/)  
 
 
 
