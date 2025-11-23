@@ -55,7 +55,7 @@ When I’m not coding, you’ll probably find me:
 
 ## 🌐 Connect with Me  
 jason.chen@queensu.ca  
-[linkedIn](https://www.linkedin.com/in/jason-chen-dev/)  
+[linkedin](https://www.linkedin.com/in/jason-chen-dev/)  
 [devpost](https://devpost.com/jasonchencode)  
 
 
