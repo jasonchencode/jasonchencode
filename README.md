@@ -2,11 +2,20 @@
 
 🎓 Computer Science at Queen’s University, specializing in Software Design  
 
-🧠 **Machine Learning Developer @ QMIND**, building a retrieval-augmented system that delivers reliable post-operative care guidance. Working with custom scrapers, a Pinecone vector store, and a growing set of medical sources  
+🔬 **AI Research Assistant @ Unity Health Toronto**  
+Working on applied ML Research in a clinical setting, supporting projects that explore how machine learning can improve healthcare workflows and decision-making.
 
-💼 **Partnerships Officer @ QHacks**, helping run a 500+ student hackathon by managing sponsor outreach and collaborating with company partners  
+🚀 **Venture Founder @ InQUbate** 
+Leading early-stage product development and strategy, turning a startup idea into a real product with support from Inqubate’s workshops, mentorship, and founder network.  
 
-🎨 **Events Executive @ Queen's UX**, organizing workshops and events, handling planning and presentations, and coordinating external speakers to build a creative, community-driven UX space
+🧠 **Machine Learning Developer @ QMIND**  
+Building a retrieval-augmented system that delivers reliable post-operative care guidance. Working with custom scrapers, a Pinecone vector store, and a growing set of medical sources.  
+
+💼 **Partnerships Officer @ QHacks**
+Helping run a 500+ student hackathon by managing sponsor outreach and collaborating with company partners.  
+
+🎨 **Events Director @ Queen's UX**  
+Organizing workshops and events, handling planning and presentations, and coordinating external speakers to build a creative, community-driven UX space
 
 💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
 📊 Enjoy working on ML workflows, backend systems, and data-heavy projects  
@@ -49,7 +58,6 @@ When I’m not coding, you’ll probably find me:
 ## 📌 Projects  
 **PGA Tour Sports Betting Model** – Data pipeline using 17,000+ rows of stats, odds movement, weather, and player data to generate predictions  
 **Housing Data Scraper** – Python tool that gathers and organizes 180+ housing data points across several real estate platforms  
-**The Evolution of Trade** – A Ren’Py game built in 36 hours that won Best Overall at QHacks 2025  
 
 ---
 
