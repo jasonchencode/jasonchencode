@@ -2,20 +2,20 @@
 
 🎓 Computer Science at Queen’s University, specializing in Software Design  
 
-🔬 **AI Research Assistant @ Unity Health Toronto**  
+🔬 **AI Research Assistant @ Unity Health Toronto**    
 Working on applied ML Research in a clinical setting, supporting projects that explore how machine learning can improve healthcare workflows and decision-making.
 
-🚀 **Venture Founder @ InQUbate** 
-Leading early-stage product development and strategy, turning a startup idea into a real product with support from Inqubate’s workshops, mentorship, and founder network.  
+🚀 **Venture Founder @ InQUbate**    
+Leading early-stage product development and strategy, turning a startup idea into a real product with support from Inqubate’s workshops, mentorship, and founder network. (stay tuned...)
 
-🧠 **Machine Learning Developer @ QMIND**  
+🧠 **Machine Learning Developer @ QMIND**    
 Building a retrieval-augmented system that delivers reliable post-operative care guidance. Working with custom scrapers, a Pinecone vector store, and a growing set of medical sources.  
 
-💼 **Partnerships Officer @ QHacks**
+💼 **Partnerships Officer @ QHacks**  
 Helping run a 500+ student hackathon by managing sponsor outreach and collaborating with company partners.  
 
-🎨 **Events Director @ Queen's UX**  
-Organizing workshops and events, handling planning and presentations, and coordinating external speakers to build a creative, community-driven UX space
+🎨 **Events Director @ Queen's UX**    
+Organizing workshops and events, handling planning and presentations, and coordinating external speakers to build a creative, community-driven UX space.  
 
 💻 Currently learning full-stack development through [The Odin Project](https://www.theodinproject.com/)  
 📊 Enjoy working on ML workflows, backend systems, and data-heavy projects  
@@ -52,12 +52,6 @@ When I’m not coding, you’ll probably find me:
 • 🎣 Fishing  
 • 💈 Cutting hair for fun  
 • 🎤 Singing way too confidently at karaoke  
-
----
-
-## 📌 Projects  
-**PGA Tour Sports Betting Model** – Data pipeline using 17,000+ rows of stats, odds movement, weather, and player data to generate predictions  
-**Housing Data Scraper** – Python tool that gathers and organizes 180+ housing data points across several real estate platforms  
 
 ---
 
