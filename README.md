@@ -1,18 +1,18 @@
-# Hi, I'm Jason 👋
+# Howdy, I'm Jason 🤠
 
 🎓 Computer Science at Queen’s University, specializing in Software Design  
+
+💫 **Incoming SWE @ Lockheed Martin**    
+Summer 2026 Ship Integration and Software Testing
 
 🔬 **AI Research Assistant @ Unity Health Toronto**    
 Working on applied ML Research in a clinical setting, supporting projects that explore how machine learning can improve healthcare workflows and decision-making.
 
 🚀 **Venture Founder @ InQUbate**    
-Leading early-stage product development and strategy, turning a startup idea into a real product with support from Inqubate’s workshops, mentorship, and founder network. (stay tuned...)
+Leading early-stage product development and strategy, turning a startup idea into a real product with support from InQUbate’s workshops, mentorship, and founder network. (stay tuned...)
 
 🧠 **Machine Learning Developer @ QMIND**    
 Building a retrieval-augmented system that delivers reliable post-operative care guidance. Working with custom scrapers, a Pinecone vector store, and a growing set of medical sources.  
-
-💼 **Partnerships Officer @ QHacks**  
-Helping run a 500+ student hackathon by managing sponsor outreach and collaborating with company partners.  
 
 🎨 **Events Director @ Queen's UX**    
 Organizing workshops and events, handling planning and presentations, and coordinating external speakers to build a creative, community-driven UX space.  
@@ -25,14 +25,13 @@ Organizing workshops and events, handling planning and presentations, and coordi
 
 ## 🔨 Tech Stack  
 • **Languages:** Python, JavaScript, Java, C, HTML/CSS, Bash, SQL  
-• **Frameworks & Tools:** Next.js, PostgreSQL, Pinecone, Pandas, NumPy, Beautiful Soup, Streamlit, Git/GitHub, Figma  
+• **Frameworks & Tools:** Pandas, NumPy, Beautiful Soup, Streamlit, Git/GitHub, Figma  
 • **Focus Areas:** Machine Learning, RAG systems, Data Engineering, Full-Stack Development  
 
 ---
 
 ## 🌱 What I'm Learning  
-• Improving retrieval performance and embedding strategies  
-• Leveling up front-end skills with Next.js  
+• Improving retrieval performance and embedding strategies    
 • Expanding full-stack knowledge through The Odin Project  
 • Practicing algorithms and system design fundamentals  
 
